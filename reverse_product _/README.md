@@ -1,0 +1,1 @@
+[text](<../../../Downloads/AI Fashion Search Engine using CLIP and FAISS.pdf>)
